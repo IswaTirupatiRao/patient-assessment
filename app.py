@@ -6,7 +6,6 @@ from flask import Flask, render_template, request
 import os
 import speech_recognition as sr
 from os import path
-from pydub import AudioSegment
 
 app = Flask(__name__)
 app= Flask(__name__,template_folder='templates')
