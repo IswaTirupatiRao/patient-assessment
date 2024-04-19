@@ -7,4 +7,4 @@ azure-cognitiveservices-speech==1.34.0
 lamini==2.0.4
 lamini-configuration==0.8.3
 SpeechRecognition==3.10.3
-pydub==0.25.1
+
